@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Find our site at https://alumni.gunnhigh.school/
+
 <!--
 
 **Here are some ideas to get you started:**
